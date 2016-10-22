@@ -1,0 +1,33 @@
+object ParamRequestForm: TParamRequestForm
+  Left = 0
+  Top = 0
+  Width = 268
+  Height = 75
+  BorderIcons = []
+  Caption = 'ParamRequestForm'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Edit1: TEdit
+    Left = 32
+    Top = 8
+    Width = 201
+    Height = 25
+    Ctl3D = False
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -16
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentCtl3D = False
+    ParentFont = False
+    TabOrder = 0
+    OnKeyDown = Edit1KeyDown
+  end
+end

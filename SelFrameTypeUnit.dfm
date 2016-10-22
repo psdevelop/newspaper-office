@@ -1,0 +1,74 @@
+object SelFrameTypeForm: TSelFrameTypeForm
+  Left = 0
+  Top = 0
+  Width = 374
+  Height = 220
+  BorderIcons = []
+  Caption = #1058#1080#1087' '#1086#1073#1098#1103#1074#1083#1077#1085#1080#1103
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -13
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 120
+  TextHeight = 16
+  object Panel1: TPanel
+    Left = 0
+    Top = 124
+    Width = 366
+    Height = 56
+    Align = alBottom
+    TabOrder = 0
+    object BitBtn1: TBitBtn
+      Left = 144
+      Top = 16
+      Width = 75
+      Height = 25
+      Caption = 'OK'
+      TabOrder = 0
+      OnClick = BitBtn1Click
+      Glyph.Data = {
+        76010000424D7601000000000000760000002800000020000000100000000100
+        04000000000000010000120B0000120B00001000000000000000000000000000
+        800000800000008080008000000080008000808000007F7F7F00BFBFBF000000
+        FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00555555555555
+        555555555555555555555555555555555555555555FF55555555555559055555
+        55555555577FF5555555555599905555555555557777F5555555555599905555
+        555555557777FF5555555559999905555555555777777F555555559999990555
+        5555557777777FF5555557990599905555555777757777F55555790555599055
+        55557775555777FF5555555555599905555555555557777F5555555555559905
+        555555555555777FF5555555555559905555555555555777FF55555555555579
+        05555555555555777FF5555555555557905555555555555777FF555555555555
+        5990555555555555577755555555555555555555555555555555}
+      NumGlyphs = 2
+    end
+  end
+  object RadioGroup1: TRadioGroup
+    Left = 0
+    Top = 0
+    Width = 366
+    Height = 124
+    Align = alClient
+    TabOrder = 1
+  end
+  object RadioButton1: TRadioButton
+    Left = 24
+    Top = 40
+    Width = 113
+    Height = 17
+    Caption = #1054#1073#1099#1095#1085#1086#1077
+    Checked = True
+    TabOrder = 2
+    TabStop = True
+  end
+  object RadioButton2: TRadioButton
+    Left = 24
+    Top = 80
+    Width = 113
+    Height = 17
+    Caption = #1056#1072#1084#1082#1072
+    TabOrder = 3
+  end
+end

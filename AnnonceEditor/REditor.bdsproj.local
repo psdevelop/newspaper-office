@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2006.01.21 17:16:34.905.pas,C:\MyBDSProjects\Components\rvpkg\Demos\Delphi\Editors\Editor 2\Unit1.pas=C:\MyBDSProjects\Components\rvpkg\Demos\Delphi\Editors\Editor 2\AnnonceFormUnit.pas</Transaction>
+    <Transaction>2006.01.21 17:16:34.905.dfm,C:\MyBDSProjects\Components\rvpkg\Demos\Delphi\Editors\Editor 2\Unit1.dfm=C:\MyBDSProjects\Components\rvpkg\Demos\Delphi\Editors\Editor 2\AnnonceFormUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

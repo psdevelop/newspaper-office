@@ -1,0 +1,11 @@
+copy RTF\ MagazineRedactorProduct\RTF
+copy DOC MagazineRedactorProduct\DOC 
+copy DOC\reserve_docs MagazineRedactorProduct\DOC\reserve_docs
+copy curr.doc MagazineRedactorProduct\curr.doc
+copy DB_DATA.xml MagazineRedactorProduct\DB_DATA.xml
+copy MagazineRedactor.ini MagazineRedactorProduct\MagazineRedactor.ini
+copy MagazineRedactor.udl MagazineRedactorProduct\MagazineRedactor.udl
+copy MagazineRedactor.cfg MagazineRedactorProduct\MagazineRedactor.cfg
+copy MagazineRedaktor.exe MagazineRedactorProduct\MagazineRedaktor.exe
+copy MagazineRedaktor.bdsproj.local MagazineRedactorProduct\MagazineRedaktor.bdsproj.local
+copy MagazineArhive.udl MagazineRedactorProduct\MagazineArhive.udl

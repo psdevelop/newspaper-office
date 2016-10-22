@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="6bcqt7oz7tf60yj_v">
+    <property name="$name" value="BoldADOInterfaces" />
+    <property name="$defaultDiagram" value="True" />
+    <property name="$metaclass" value="Package Diagram" />
+    <reference referencedUin="delphi:e_class:src:MagazineRedaktor:BoldADOInterfaces.TBoldADOConnection">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+  </view>
+</nodeSet>

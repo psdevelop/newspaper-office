@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="l3a5wi6p7p3aeie_v">
+    <property name="$name" value="BoldDatabaseAdapterADO" />
+    <property name="$defaultDiagram" value="True" />
+    <property name="$metaclass" value="Package Diagram" />
+    <reference referencedUin="delphi:e_class:src:MagazineRedaktor:BoldDatabaseAdapterADO.TBoldDatabaseAdapterADO">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:MagazineRedaktor:BoldDatabaseAdapterADO.TBoldDatabaseAdapterADO.fBoldDatabase" />
+      <reference referencedUin="delphi:e_method:src:MagazineRedaktor:BoldDatabaseAdapterADO.TBoldDatabaseAdapterADO.SetDataBase" />
+      <reference referencedUin="delphi:e_method:src:MagazineRedaktor:BoldDatabaseAdapterADO.TBoldDatabaseAdapterADO.GetDataBase" />
+      <reference referencedUin="delphi:e_method:src:MagazineRedaktor:BoldDatabaseAdapterADO.TBoldDatabaseAdapterADO.ReleaseBoldDatabase" />
+      <reference referencedUin="delphi:e_method:src:MagazineRedaktor:BoldDatabaseAdapterADO.TBoldDatabaseAdapterADO.GetDataBaseInterface" />
+      <reference referencedUin="delphi:e_method:src:MagazineRedaktor:BoldDatabaseAdapterADO.TBoldDatabaseAdapterADO.Destroy" />
+      <reference referencedUin="delphi:e_property:src:MagazineRedaktor:BoldDatabaseAdapterADO.TBoldDatabaseAdapterADO.Connection" />
+      <reference referencedUin="delphi:e_property:src:MagazineRedaktor:BoldDatabaseAdapterADO.TBoldDatabaseAdapterADO.DatabaseEngine" />
+    </reference>
+  </view>
+</nodeSet>
